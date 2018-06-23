@@ -2,6 +2,11 @@
 eMensageria - Sistema de Gerenciamento de Eventos do eSocial <www.emensageria.com.br>
 Copyright (C) 2018  Marcelo Medeiros de Vasconcellos
 
+Requisitos de Sistema
+- Linux;
+- Python (versão 2.7);
+- Django (versão 1.8);
+- Postgres;
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
@@ -15,8 +20,6 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
-
 
 Este programa é software livre: você pode redistribuí-lo e/ou modificá-lo
 sob os termos da licença GNU Affero General Public License como
