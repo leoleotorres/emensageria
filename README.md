@@ -31,6 +31,8 @@ Licença Pública Geral GNU Affero para mais detalhes.
 Você deveria ter recebido uma cópia da Licença Pública Geral GNU Affero
 junto com este programa. Se não, veja <https://www.gnu.org/licenses/>.
 
+Baixe a ultima versão do sistema pelo site: www.emensageria.com.br
+
 Para maiores informações acesse: www.emensageria.com.br e baixe o Manual de Instruções
 
 Email para contato: contato@emensageria.com.br
